@@ -1,4 +1,4 @@
-![Typing SVG](color=%2336BCF7&lines=Hi+there)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there)](https://github.com/newspacestar)
 
 
 <!--

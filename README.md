@@ -1,4 +1,5 @@
-## Hi there 👋
+## Рядом с солнцем в небесах живу один в своих мечтах обжигаясь об лучи, иду по млечному пути...
+
 
 <!--
 **newspacestar/newspacestar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
